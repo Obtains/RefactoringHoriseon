@@ -1,4 +1,7 @@
 # Code Refactor Starter Code
+https://obtains.github.io/RefactoringHoriseon/
+
+
 HTML changes
 
 Changed the title to Horiseon from website to make it more clear
@@ -9,18 +12,12 @@ Changed parent "div" to more Sematic HTML elements to better understand and read
 
 Added alt attributes to all the images
 
+Removed excess class selectors to make it less clutered and easier to read
+
 CSS changes
 
-Made these grouping chages due to multiple lines of code with the same styles
+Removed excess css selectors and organized "benefits2" and "content2" to be neater
 
-Grouped .benefit-lead/brand/cost
+Changed main html elements to ID intead of class
 
-Grouped .benefit-lead/brand/cost h3
 
-Grouped .benefit-lead/brand/cost img
-
-Grouped .search-engine optimization/online-rep mgt/social-media-marketing
-
-Grouped .search-engine optimization/online-rep mgt/social-media-marketing img
-
-Grouped .search-engine optimization/online-rep mgt/social-media-marketing h2
