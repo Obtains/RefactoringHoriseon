@@ -20,4 +20,4 @@ Removed excess css selectors and organized "benefits2" and "content2" to be neat
 
 Changed main html elements to ID intead of class
 
-
+![Screenshot of Horiseon completed](./assets/images/myimage.png.PNG)
